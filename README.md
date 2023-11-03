@@ -10,7 +10,7 @@ below for details.
 
 ## Submissions
 
-Please submit an [issue](https://github.com/TrackerboyOrg/examples/issues/new)
+Please submit an [issue](https://github.com/TrackerboyOrg/examples/issues/new/choose)
 if you would like your module to be included in this repository. You can also
 fork the repo and add it yourself, and then submit a pull request.
 
